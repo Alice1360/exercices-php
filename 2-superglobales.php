@@ -10,7 +10,6 @@
     </div>
     <button type="submit">Ajouter</button>
 </form>
-
 <?php
 session_start();
 
